@@ -1,8 +1,9 @@
 # text-summarization-reference
 A reference of text summarization
 
-## reference
+## guide
 - [使用Python自动提取内容摘要](https://www.cnblogs.com/dhcn/p/7866130.html)
+- [Document Summarization using TextRank](http://joshbohde.com/blog/document-summarization/)
 
 ## projects
 - [SummaRuNNer - pytorch](https://github.com/hpzhao/SummaRuNNer)
